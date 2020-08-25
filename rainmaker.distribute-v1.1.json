@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "rainmaker.distribute v.1.0",
-    "description": "Documentation for rainmaker.distribute HTTP JSON-based API version 1.0",
+    "description": "rainmaker.distribute is the core interface, powered by the rainmaker.switch travel integration engine, to connect hospitality properties integrated in the rainmaker destination network and open platform with consumer facing front ends and platforms such as tour operators, online travel agents, websites and portals etc.",
     "contact": {},
     "version": "1.0"
   },
